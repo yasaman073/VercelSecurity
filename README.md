@@ -2,7 +2,7 @@
 
 ### 🇮🇷 راهنمای کامل فارسی — Complete Persian Setup Guide
 
-[![Telegram Channel]([https://img.shields.io/badge/Telegram-%40avaco__cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-%40mEYSAm__Fzt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/mEYSAm_FzT)
+[![Telegram Channel]([https://img.shields.io/badge/Telegram-%40mEYSAm__Fzt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/mEYSAm_FzT](https://img.shields.io/badge/Telegram-%40mEYSAm__Fzt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/mEYSAm_FzT)
 
 > 📢 **کانال تلگرام PSYCHOVPNir** — برای آموزش‌های بیشتر، آپدیت‌ها، روش‌های دور زدن سانسور و کانفیگ‌های جدید عضو شو:
 > 
