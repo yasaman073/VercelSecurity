@@ -2,11 +2,11 @@
 
 ### 🇮🇷 راهنمای کامل فارسی — Complete Persian Setup Guide
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-%40avaco__cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avaco_cloud)
+[![Telegram Channel]([https://img.shields.io/badge/Telegram-%40avaco__cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-%40mEYSAm__Fzt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/mEYSAm_FzT)
 
-> 📢 **کانال تلگرام Avaco Cloud** — برای آموزش‌های بیشتر، آپدیت‌ها، روش‌های دور زدن سانسور و کانفیگ‌های جدید عضو شو:
+> 📢 **کانال تلگرام PSYCHOVPNir** — برای آموزش‌های بیشتر، آپدیت‌ها، روش‌های دور زدن سانسور و کانفیگ‌های جدید عضو شو:
 > 
-> 👉 **[https://t.me/avaco_cloud](https://t.me/avaco_cloud)**
+> 👉 **[https://t.me/PSYCHOVPNIR](https://t.me/PSYCHOVPNIR)**
 
 A minimal relay running on **Vercel Edge Functions** that forwards **XHTTP** traffic from your Xray/V2Ray client to your backend Xray server. The goal: use Vercel's global edge network and the `*.vercel.app` domain as a front to hide the real IP of your origin server.
 
@@ -784,9 +784,9 @@ MIT — مثل پروژه‌ی اصلی.
 
 <div align="center">
 
-[![Join Telegram](https://img.shields.io/badge/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D9%85%D8%A7%20%D8%B4%D9%88-Avaco%20Cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avaco_cloud)
+[![Join Telegram](https://img.shields.io/badge/Telegram-%40mEYSAm__Fzt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avaco_cloud)
 
-**[https://t.me/avaco_cloud](https://t.me/avaco_cloud)**
+**[https://t.me/MEYSAM_FZT](https://t.me/PSYCHOVPNIR)**
 
 *آموزش‌های بیشتر • کانفیگ‌های آپدیت • روش‌های دور زدن سانسور • پشتیبانی*
 
